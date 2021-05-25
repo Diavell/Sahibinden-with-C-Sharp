@@ -1,0 +1,571 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{33E70BFD-1D4F-478C-9858-F13C0E6F9C0E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Sahibinden</RootNamespace>
+    <AssemblyName>Sahibinden</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Acil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Acil.Designer.cs">
+      <DependentUpon>Acil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Anasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anasayfa.Designer.cs">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ay.Designer.cs">
+      <DependentUpon>Ay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emlak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emlak.Designer.cs">
+      <DependentUpon>Emlak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emlakev1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emlakev1.Designer.cs">
+      <DependentUpon>Emlakev1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emlakev2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emlakev2.Designer.cs">
+      <DependentUpon>Emlakev2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emlakev3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emlakev3.Designer.cs">
+      <DependentUpon>Emlakev3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emlakev4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emlakev4.Designer.cs">
+      <DependentUpon>Emlakev4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emlakev5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emlakev5.Designer.cs">
+      <DependentUpon>Emlakev5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emlakilan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emlakilan.Designer.cs">
+      <DependentUpon>Emlakilan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emlakilan1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Emlakilan1.Designer.cs">
+      <DependentUpon>Emlakilan1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Favorilerim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Favorilerim.Designer.cs">
+      <DependentUpon>Favorilerim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fiyatidusenler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fiyatidusenler.Designer.cs">
+      <DependentUpon>Fiyatidusenler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hafta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hafta.Designer.cs">
+      <DependentUpon>Hafta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hayvanlar2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hayvanlar2.Designer.cs">
+      <DependentUpon>Hayvanlar2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hayvanlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hayvanlar.Designer.cs">
+      <DependentUpon>Hayvanlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hayvanlar1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hayvanlar1.Designer.cs">
+      <DependentUpon>Hayvanlar1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hayvanlar3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hayvanlar3.Designer.cs">
+      <DependentUpon>Hayvanlar3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hayvanlar4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hayvanlar4.Designer.cs">
+      <DependentUpon>Hayvanlar4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ikinciel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ikinciel.Designer.cs">
+      <DependentUpon>Ikinciel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ikinciel1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ikinciel1.Designer.cs">
+      <DependentUpon>Ikinciel1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ikinciel2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ikinciel2.Designer.cs">
+      <DependentUpon>Ikinciel2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ikinciel3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ikinciel3.Designer.cs">
+      <DependentUpon>Ikinciel3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ikinciel4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ikinciel4.Designer.cs">
+      <DependentUpon>Ikinciel4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kategoriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kategoriler.Designer.cs">
+      <DependentUpon>Kategoriler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ozelders.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ozelders.Designer.cs">
+      <DependentUpon>Ozelders.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ozelders1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ozelders1.Designer.cs">
+      <DependentUpon>Ozelders1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ozelders2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ozelders2.Designer.cs">
+      <DependentUpon>Ozelders2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ozelders3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ozelders3.Designer.cs">
+      <DependentUpon>Ozelders3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ozelders4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ozelders4.Designer.cs">
+      <DependentUpon>Ozelders4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sanayi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sanayi.Designer.cs">
+      <DependentUpon>Sanayi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sanayi1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sanayi1.Designer.cs">
+      <DependentUpon>Sanayi1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sanayi2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sanayi2.Designer.cs">
+      <DependentUpon>Sanayi2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sanayi3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sanayi3.Designer.cs">
+      <DependentUpon>Sanayi3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sanayi4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sanayi4.Designer.cs">
+      <DependentUpon>Sanayi4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sifremiunuttum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sifremiunuttum.Designer.cs">
+      <DependentUpon>Sifremiunuttum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Son48.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Son48.Designer.cs">
+      <DependentUpon>Son48.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeAnasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeAnasayfa.Designer.cs">
+      <DependentUpon>UyeAnasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uyedetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uyedetay.Designer.cs">
+      <DependentUpon>Uyedetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeGirisi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeGirisi.Designer.cs">
+      <DependentUpon>UyeGirisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uyeligim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uyeligim.Designer.cs">
+      <DependentUpon>Uyeligim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uyelik.cs" />
+    <Compile Include="Uyelikiptal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uyelikiptal.Designer.cs">
+      <DependentUpon>Uyelikiptal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeOl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeOl.Designer.cs">
+      <DependentUpon>UyeOl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UyeOlKurumsal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UyeOlKurumsal.Designer.cs">
+      <DependentUpon>UyeOlKurumsal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vasita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vasita.Designer.cs">
+      <DependentUpon>Vasita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vasitaarac1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vasitaarac1.Designer.cs">
+      <DependentUpon>Vasitaarac1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vasitaarac2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vasitaarac2.Designer.cs">
+      <DependentUpon>Vasitaarac2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vasitaarac3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vasitaarac3.Designer.cs">
+      <DependentUpon>Vasitaarac3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vasitaarac4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vasitaarac4.Designer.cs">
+      <DependentUpon>Vasitaarac4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yedekparca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yedekparca.Designer.cs">
+      <DependentUpon>Yedekparca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yedekparca1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yedekparca1.Designer.cs">
+      <DependentUpon>Yedekparca1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yedekparca2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yedekparca2.Designer.cs">
+      <DependentUpon>Yedekparca2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yedekparca3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yedekparca3.Designer.cs">
+      <DependentUpon>Yedekparca3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yedekparca4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yedekparca4.Designer.cs">
+      <DependentUpon>Yedekparca4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="İlanver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="İlanver.Designer.cs">
+      <DependentUpon>İlanver.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Acil.resx">
+      <DependentUpon>Acil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Anasayfa.resx">
+      <DependentUpon>Anasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ay.resx">
+      <DependentUpon>Ay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emlak.resx">
+      <DependentUpon>Emlak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emlakev1.resx">
+      <DependentUpon>Emlakev1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emlakev2.resx">
+      <DependentUpon>Emlakev2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emlakev3.resx">
+      <DependentUpon>Emlakev3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emlakev4.resx">
+      <DependentUpon>Emlakev4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emlakev5.resx">
+      <DependentUpon>Emlakev5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emlakilan.resx">
+      <DependentUpon>Emlakilan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emlakilan1.resx">
+      <DependentUpon>Emlakilan1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Favorilerim.resx">
+      <DependentUpon>Favorilerim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fiyatidusenler.resx">
+      <DependentUpon>Fiyatidusenler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hafta.resx">
+      <DependentUpon>Hafta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hayvanlar.resx">
+      <DependentUpon>Hayvanlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hayvanlar1.resx">
+      <DependentUpon>Hayvanlar1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hayvanlar2.resx">
+      <DependentUpon>Hayvanlar2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hayvanlar3.resx">
+      <DependentUpon>Hayvanlar3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hayvanlar4.resx">
+      <DependentUpon>Hayvanlar4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ikinciel.resx">
+      <DependentUpon>Ikinciel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ikinciel1.resx">
+      <DependentUpon>Ikinciel1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ikinciel2.resx">
+      <DependentUpon>Ikinciel2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ikinciel3.resx">
+      <DependentUpon>Ikinciel3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ikinciel4.resx">
+      <DependentUpon>Ikinciel4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kategoriler.resx">
+      <DependentUpon>Kategoriler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ozelders.resx">
+      <DependentUpon>Ozelders.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ozelders1.resx">
+      <DependentUpon>Ozelders1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ozelders2.resx">
+      <DependentUpon>Ozelders2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ozelders3.resx">
+      <DependentUpon>Ozelders3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ozelders4.resx">
+      <DependentUpon>Ozelders4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Sanayi.resx">
+      <DependentUpon>Sanayi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sanayi1.resx">
+      <DependentUpon>Sanayi1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sanayi2.resx">
+      <DependentUpon>Sanayi2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sanayi3.resx">
+      <DependentUpon>Sanayi3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sanayi4.resx">
+      <DependentUpon>Sanayi4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sifremiunuttum.resx">
+      <DependentUpon>Sifremiunuttum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Son48.resx">
+      <DependentUpon>Son48.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeAnasayfa.resx">
+      <DependentUpon>UyeAnasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uyedetay.resx">
+      <DependentUpon>Uyedetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeGirisi.resx">
+      <DependentUpon>UyeGirisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uyeligim.resx">
+      <DependentUpon>Uyeligim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uyelikiptal.resx">
+      <DependentUpon>Uyelikiptal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeOl.resx">
+      <DependentUpon>UyeOl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UyeOlKurumsal.resx">
+      <DependentUpon>UyeOlKurumsal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vasita.resx">
+      <DependentUpon>Vasita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vasitaarac1.resx">
+      <DependentUpon>Vasitaarac1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vasitaarac2.resx">
+      <DependentUpon>Vasitaarac2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vasitaarac3.resx">
+      <DependentUpon>Vasitaarac3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vasitaarac4.resx">
+      <DependentUpon>Vasitaarac4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yedekparca.resx">
+      <DependentUpon>Yedekparca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yedekparca1.resx">
+      <DependentUpon>Yedekparca1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yedekparca2.resx">
+      <DependentUpon>Yedekparca2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yedekparca3.resx">
+      <DependentUpon>Yedekparca3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yedekparca4.resx">
+      <DependentUpon>Yedekparca4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="İlanver.resx">
+      <DependentUpon>İlanver.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

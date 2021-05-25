@@ -1,0 +1,128 @@
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\bin\Debug\Sahibinden.exe.config
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\bin\Debug\Sahibinden.exe
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\bin\Debug\Sahibinden.pdb
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.csprojAssemblyReference.cache
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Anasayfa.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Properties.Resources.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.csproj.GenerateResource.cache
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.csproj.CoreCompileInputs.cache
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.exe
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.pdb
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.UyeOl.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.UyeOlKurumsal.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.UyeGirisi.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.UyeAnasayfa.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Kategoriler.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlak.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlakev1.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlakev2.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlakev3.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlakev4.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlakev5.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Vasita.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Vasitaarac1.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Vasitaarac2.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Vasitaarac3.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Vasitaarac4.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Yedekparca.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Yedekparca1.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Yedekparca2.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Yedekparca3.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Yedekparca4.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ikinciel.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ikinciel1.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ikinciel2.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ikinciel3.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ikinciel4.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Sanayi.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Sanayi1.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Sanayi2.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Sanayi3.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Sanayi4.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Hayvanlar.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Hayvanlar1.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Hayvanlar2.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Hayvanlar3.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Hayvanlar4.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ozelders.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ozelders1.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ozelders2.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ozelders3.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ozelders4.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Uyeligim.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Sifremiunuttum.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Acil.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Fiyatidusenler.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Son48.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ay.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Hafta.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Uyedetay.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlakilan.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.İlanver.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlakilan1.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Favorilerim.resources
+C:\Users\erdem\OneDrive\Masaüstü\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Uyelikiptal.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\bin\Debug\Sahibinden.exe.config
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\bin\Debug\Sahibinden.exe
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\bin\Debug\Sahibinden.pdb
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.csprojAssemblyReference.cache
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Acil.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Anasayfa.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ay.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlak.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlakev1.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlakev2.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlakev3.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlakev4.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlakev5.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlakilan.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Emlakilan1.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Favorilerim.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Fiyatidusenler.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Hafta.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Hayvanlar.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Hayvanlar1.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Hayvanlar2.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Hayvanlar3.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Hayvanlar4.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ikinciel.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ikinciel1.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ikinciel2.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ikinciel3.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ikinciel4.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Kategoriler.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ozelders.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ozelders1.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ozelders2.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ozelders3.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Ozelders4.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Properties.Resources.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Sanayi.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Sanayi1.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Sanayi2.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Sanayi3.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Sanayi4.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Sifremiunuttum.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Son48.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.UyeAnasayfa.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Uyedetay.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.UyeGirisi.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Uyeligim.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Uyelikiptal.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.UyeOl.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.UyeOlKurumsal.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Vasita.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Vasitaarac1.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Vasitaarac2.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Vasitaarac3.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Vasitaarac4.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Yedekparca.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Yedekparca1.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Yedekparca2.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Yedekparca3.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.Yedekparca4.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.İlanver.resources
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.csproj.GenerateResource.cache
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.csproj.CoreCompileInputs.cache
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.exe
+C:\Users\erdem\Masaüstü\Erdem Çavdar Final\Sahibinden\Sahibinden\obj\Debug\Sahibinden.pdb
